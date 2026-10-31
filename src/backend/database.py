@@ -122,10 +122,10 @@ initial_activities = {
     },
     "Manga Maniacs": {
         "description": "Dive into epic adventures, unforgettable characters, and imaginative worlds as we explore Japanese manga together!",
-        "schedule": "Tuesdays, 7:00 PM",
+        "schedule": "Tuesdays, 6:30 PM",
         "schedule_details": {
             "days": ["Tuesday"],
-            "start_time": "19:00"
+            "start_time": "18:30"
         },
         "max_participants": 15,
         "participants": []
